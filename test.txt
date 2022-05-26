@@ -1,0 +1,11 @@
+git init my_first_repo
+cd my_first_repo
+
+git config --global user.email "your_address_email@domain.com"
+git remote add origin https://github.com/smreddy2/first-repo.git
+
+git pull origin main
+
+git branch
+
+git status
