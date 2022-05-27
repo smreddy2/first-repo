@@ -4,6 +4,8 @@ cd my_first_repo
 git config --global user.email "your_address_email@domain.com"
 git remote add origin https://github.com/smreddy2/first-repo.git
 
+git add  "test.txt"
+
 git pull origin main
 
 git branch
